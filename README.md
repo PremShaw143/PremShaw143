@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prem Kumar Shaw
 
-### 🤖 AI/ML Engineer | Python Developer | RAG & LLM | Data Analytics
+### 🤖 AI/ML Software Engineer | Python Developer |Backend Developer
 
 🎓 B.Tech Computer Science & Engineering — Data Science
 📍 India
