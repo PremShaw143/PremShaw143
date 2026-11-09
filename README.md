@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Prem Kumar Shaw
 
-### 🤖 AI/ML Software Engineer | Python Developer |Backend Developer
+### 🤖 AI & Backend Developer | Python Developer | Machine Learning Engineer
 
 🎓 B.Tech Computer Science & Engineering — Data Science
 📍 India
-💼 Open to **AI/ML Engineer | GenAI Engineer | Python Developer | Data Analyst | Software Engineer** opportunities
+💼 Open to **AI Engineer | Backend Developer | Python Developer | ML Engineer | GenAI Engineer** opportunities
 
 📧 **[premshaw117@gmail.com](mailto:premshaw117@gmail.com)**
 
@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science graduate specializing in **Data Science, Artificial Intelligence, and Software Development**.
+I'm a Computer Science graduate focused on **Artificial Intelligence, Machine Learning, and Backend Development**.
 
-I enjoy building practical AI and data-driven applications using **Python, Machine Learning, LLMs, RAG, SQL, Power BI, and FastAPI**.
+I enjoy building practical applications using **Python, Django, Flask, FastAPI, REST APIs, Machine Learning, and Generative AI**. I also work with databases and explore cloud platforms such as **AWS and Microsoft Azure**.
 
-Currently, I'm focusing on **Generative AI and LLM application development**, especially **Retrieval-Augmented Generation (RAG)** and AI-powered applications.
+Currently, I'm focusing on developing AI-powered backend applications, integrating AI/LLM APIs, building REST APIs, and exploring **RAG-based systems and AI agents**.
 
 ### 🔍 Areas I'm Working On
 
@@ -26,9 +26,12 @@ Currently, I'm focusing on **Generative AI and LLM application development**, es
 * 💬 AI-powered applications
 * 🎯 AI Interview & Career tools
 * 🐍 Python Backend Development
-* ⚡ FastAPI & REST APIs
+* 🌐 Django, Flask & FastAPI
+* 🔌 REST API Development & Third-Party API Integration
+* 🤖 Artificial Intelligence & Generative AI
+* 🧠 Machine Learning & NLP
+* ☁️ Cloud Platforms: AWS & Microsoft Azure
 * 📊 Data Analytics & Business Intelligence
-* 🤖 Machine Learning
 
 ---
 
@@ -98,8 +101,15 @@ The goal is to build AI systems that can retrieve relevant information from exte
 
 ### ⚡ Backend & APIs
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
+### ☁️ Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
 ### 📊 Data Analytics
 
@@ -120,7 +130,7 @@ The goal is to build AI systems that can retrieve relevant information from exte
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -318,7 +328,8 @@ I'm continuously improving my knowledge of **LLM application development, RAG ar
 * Object-Oriented Programming
 * Data Structures & Algorithms
 * REST APIs
-* API Design
+* API Design & Integration
+* Django, Flask & FastAPI
 * Git & GitHub
 
 ### Data
@@ -363,7 +374,8 @@ I'm continuously improving my knowledge of **LLM application development, RAG ar
 * 🚀 Build production-ready GenAI applications
 * 🧠 Become strong in RAG and LLM architectures
 * 🤖 Build AI-powered developer tools
-* ⚡ Improve FastAPI and backend development
+* ⚡ Improve Django, Flask, FastAPI and backend development
+* ☁️ Build and deploy applications using AWS and Azure
 * 📊 Build advanced analytics dashboards
 * 🧩 Improve Data Structures & Algorithms
 * 🌐 Contribute to open-source projects
